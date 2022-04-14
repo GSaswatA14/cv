@@ -1,0 +1,72 @@
+.first-heading{
+  font-size: 22px;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.second-heading{
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.third-heading{
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+
+
+ul li{
+  font-size: 19px;
+}
+
+/* .work{
+  border: 1px solid black;
+} */
+
+.work th{
+  padding: 5px;
+}
+.work td{
+  padding: 5px;
+}
+
+/* nesting table css */
+
+.nest tr{
+  padding:5px;
+}
+
+.nest td{
+  padding:5px;
+}
+
+
+ .banner-para{
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+label{
+  margin: 20px 20px 20px 20px;
+  font-size: 21px;
+}
+
+.btn{
+  margin-left: 14px;
+  padding: 8px 4px;
+  border: 1px solid black;
+  border-radius: 3.5px;
+
+}
+
+
+textarea{
+  margin-bottom: -68px;
+}
